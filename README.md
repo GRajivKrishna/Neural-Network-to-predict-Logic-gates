@@ -46,6 +46,3 @@ The neural network implemented in this project consists of an input layer, a hid
 
 
 
-## Author
-
-G Rajiv Krishna
